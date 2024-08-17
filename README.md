@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Ahmad's+Cybersecurity+Hub!;Securing+the+Digital+Frontier&font=Fira%20Code&center=true&width=380&height=50">
 </div>
 
-<h1 align="center">👨‍💻 Ahmad | Cybersecurity Enthusiast</h1>
+<h1 align="center">👨‍💻 Ahmad | Cybersecurity </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Science-Graduate-blue?style=for-the-badge&logo=graduation-cap" alt="Computer Science Graduate">
