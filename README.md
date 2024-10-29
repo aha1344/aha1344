@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Ahmad's+Tech+Hub!;Exploring+Innovation+and+System+Efficiency!&font=Fira%20Code&center=true&width=600&height=60">
 </div>
 
-<h1 align="center">👨‍💻 Ahmad | Computer Science Graduate </h1>
+<h1 align="center">👨‍💻 Ahmad | Computer Science </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Science-Graduate-blue?style=for-the-badge&logo=graduation-cap" alt="Computer Science Graduate">
