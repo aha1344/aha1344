@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Ahmad's+Cybersecurity+Hub!;Securing+the+Digital+Frontier&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Ahmad's+Tech+Hub!;Exploring+Innovation+and+System+Efficiency!&font=Fira%20Code&center=true&width=380&height=50">
 </div>
 
-<h1 align="center">👨‍💻 Ahmad | Cybersecurity </h1>
+<h1 align="center">👨‍💻 Ahmad | Computer Science Graduate </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Science-Graduate-blue?style=for-the-badge&logo=graduation-cap" alt="Computer Science Graduate">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=shield" alt="Cybersecurity Focus">
+  <img src="https://img.shields.io/badge/Focus-System%20Optimization%20&%20Tech%20Education-green?style=for-the-badge&logo=brain" alt="System Optimization & Tech Education">
 </p>
 
 <p align="center">
@@ -15,9 +15,29 @@
 
 ---
 
-### 🛡️ About Me
+### 🛠️ About Me
 
-Greetings! I'm Ahmad, a Computer Science graduate with a burning passion for cybersecurity. My mission is to fortify digital landscapes and protect against cyber threats. From network security to ethical hacking, I'm constantly expanding my knowledge to stay ahead in this ever-evolving field.
+Greetings! I'm Ahmad, a Computer Science graduate passionate about optimizing systems and enhancing operational efficiency through technology. I have a range of experience in IT, coding education, and developing applications with a focus on accessibility and transparency. Currently, I am diving deep into software deployment, network security, and user-friendly app development.
+
+---
+
+### 💼 Professional Experience
+
+- **IT Service Desk Intern** at American University of Beirut (Jan 2024 - Jun 2024)  
+  Proficient in updating systems (Linux and Windows), troubleshooting, and using tools like Gandalf for system cloning and resets. Skilled in diagnosing software and hardware issues.
+
+- **Coding and Robotics Tutor** at Coducators (June 2023 - Sep 2023)  
+  Empowered young learners, including those with special needs, through hands-on coding and robotics projects using Scratch, Microsoft Arcade, MakeCode, and LEGO models.
+
+---
+
+### 🚀 Projects
+
+- **CoinCorp** - *Jan 2024 - May 2024*  
+  A mobile app that facilitates money transfers with automatic currency conversion between USD and LBP. Presented at a demo day, earning positive feedback for its intuitive design and functionality.
+
+- **Ishtaki** - *Sep 2023 - May 2024*  
+  A whistleblowing platform enabling citizens to report corruption anonymously. Visualizes data on corruption through heatmaps and data plots, promoting transparency and accountability.
 
 ---
 
@@ -58,5 +78,5 @@ Greetings! I'm Ahmad, a Computer Science graduate with a burning passion for cyb
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Let's+secure+the+digital+world+together!&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Let's+build+technology+for+everyone!&font=Fira%20Code&center=true&width=380&height=50">
 </div>
