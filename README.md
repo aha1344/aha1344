@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Ahmad's+Tech+Hub!;Exploring+Innovation+and+System+Efficiency!&font=Fira%20Code&center=true&width=600&height=60">
 </div>
 
-<h1 align="center">👨‍💻 Ahmad | Computer Science  </h1>
+<h1 align="center">👨‍💻 Ahmad | Computer Science Graduate </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Science-Graduate-blue?style=for-the-badge&logo=graduation-cap" alt="Computer Science Graduate">
-  <img src="https://img.shields.io/badge/Focus-System%20Optimization%20&%20Tech%20Education-green?style=for-the-badge&logo=brain" alt="System Optimization & CyberSecurity">
+  <img src="https://img.shields.io/badge/Focus-System%20Optimization%20&%20CyberSecurity-green?style=for-the-badge&logo=shield" alt="System Optimization & CyberSecurity">
 </p>
 
 <p align="center">
@@ -18,16 +18,6 @@
 ### 🛠️ About Me
 
 Greetings! I'm Ahmad, a Computer Science graduate passionate about optimizing systems and enhancing operational efficiency through technology. I have a range of experience in IT, coding education, and developing applications with a focus on accessibility and transparency. Currently, I am diving deep into software deployment, network security, and user-friendly app development.
-
----
-
-### 💼 Professional Experience
-
-- **IT Service Desk Intern** at American University of Beirut (Jan 2024 - Jun 2024)  
-  Proficient in updating systems (Linux and Windows), troubleshooting, and using tools like Gandalf for system cloning and resets. Skilled in diagnosing software and hardware issues.
-
-- **Coding and Robotics Tutor** at Coducators (June 2023 - Sep 2023)  
-  Empowered young learners, including those with special needs, through hands-on coding and robotics projects using Scratch, Microsoft Arcade, MakeCode, and LEGO models.
 
 ---
 
@@ -69,9 +59,6 @@ Greetings! I'm Ahmad, a Computer Science graduate passionate about optimizing sy
   </a>
   <a href="https://www.linkedin.com/in/ahmad-adada-b8580b273">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/aha1344">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
