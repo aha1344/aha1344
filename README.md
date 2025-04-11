@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Ahmad's+Tech+Hub!;Exploring+Innovation+and+System+Efficiency!&font=Fira%20Code&center=true&width=600&height=60">
 </div>
@@ -17,7 +18,11 @@
 
 ### 🛠️ About Me
 
-Greetings! I'm Ahmad, a Computer Science graduate passionate about optimizing systems and enhancing operational efficiency through technology. I have a range of experience in IT, coding education, and developing applications with a focus on accessibility and transparency. Currently, I am diving deep into software deployment, network security, and user-friendly app development.
+Greetings! I'm Ahmad, a Computer Science graduate passionate about system efficiency, mobile development, and cybersecurity.
+
+I’ve built projects involving mobile apps, data visualization, and secure platforms, with hands-on experience using Flutter, React Native, Nmap, and Wireshark.
+
+Currently, I’m exploring cybersecurity through Hack The Box, while creating accessible, privacy-focused tools that solve real-world problems.
 
 ---
 
@@ -44,10 +49,23 @@ Greetings! I'm Ahmad, a Computer Science graduate passionate about optimizing sy
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Nmap-4B8BBE?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Nmap">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/TCP%2FIP-FCC624?style=for-the-badge&logo=protocols&logoColor=black" alt="TCP/IP">
 </p>
+
+---
+
+### 🎯 Current Focus
+
+- Learning cybersecurity concepts and penetration testing through **Hack The Box**  
+- Practicing network scanning, analysis, and basic vulnerability detection  
+- Developing full-stack and mobile apps using **React Native**, **Flutter**, and **JavaScript**  
+- Exploring the intersection of cybersecurity and app development as a future **software engineer**
 
 ---
 
